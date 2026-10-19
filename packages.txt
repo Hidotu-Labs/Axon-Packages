@@ -1,0 +1,1 @@
+onefetch|3.1.0|5786768|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/onefetch-3.1.0-x86_64.tar.gz|Git repository summary on your terminal
