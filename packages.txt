@@ -1,3 +1,4 @@
 onefetch|3.1.0|5786768|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/onefetch-3.1.0-x86_64.tar.gz|Git repository summary on your terminal
 cjson|1.7.19|42230|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/cjson-1.7.19-x86_64.tar.gz|Ultralightweight JSON parser in ANSI C
 tcc|0.9.28rc|580012|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/tcc-0.9.28rc-x86_64.tar.gz|Tiny C Compiler with dynamic Linux & Ascension kernel detection
+kria|1.3.0|498400|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/kria-1.3.0-x86_64.tar.gz|A dynamic, lightweight programming language with bytecode VM
