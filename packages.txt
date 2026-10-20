@@ -4,3 +4,17 @@ tcc|0.9.28rc|580012|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/
 kria|1.3.0|498400|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/kria-1.3.0-x86_64.tar.gz|A dynamic, lightweight programming language with bytecode VM
 fzf|0.74.5|2073534|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/fzf-0.74.5-x86_64.tar.gz|General-purpose command-line fuzzy finder
 lua|5.4.7|535521|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/lua-5.4.7-x86_64.tar.gz|Powerful, lightweight, fast, embeddable scripting language
+htop|3.5.3|245068|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/htop-3.5.3-x86_64.tar.gz|Interactive process viewer and RAM monitor with Linux & Ascension support
+tree|2.3.2|89026|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/tree-2.3.2-x86_64.tar.gz|Depth indented directory listing utility with Linux & Ascension support
+file|5.48|658784|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/file-5.48-x86_64.tar.gz|File type identification utility and libmagic with Linux & Ascension support
+which|2.25|17003|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/which-2.25-x86_64.tar.gz|Shows the full path of shell commands with Linux & Ascension support
+nano|9.2|1149201|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/nano-9.2-x86_64.tar.gz|Small and friendly terminal text editor with Linux & Ascension support
+jq|1.8.2|267607|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/jq-1.8.2-x86_64.tar.gz|Lightweight and flexible command-line JSON processor and library
+ripgrep|15.2.0|1660976|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/ripgrep-15.2.0-x86_64.tar.gz|Fast line-oriented search tool combining usability of ag with grep
+fd|10.4.2|1503229|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/fd-10.4.2-x86_64.tar.gz|Simple, fast and user-friendly alternative to find command
+tmux|3.8|854368|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/tmux-3.8-x86_64.tar.gz|Terminal multiplexer with multiple windows and sessions
+rsync|3.5.0|532073|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/rsync-3.5.0-x86_64.tar.gz|Fast and versatile file copying and remote synchronization tool
+strace|7.2|689000|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/strace-7.2-x86_64.tar.gz|Diagnostic, debugging and instructional userspace system call tracer
+lsof|4.99.7|146483|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/lsof-4.99.7-x86_64.tar.gz|Utility to list open files and file descriptors with dynamic Linux & Ascension OS detection
+zstd|1.5.7|825984|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/zstd-1.5.7-x86_64.tar.gz|Fast real-time compression algorithm, CLI and library
+sqlite|3.53.4|9209275|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/sqlite-3.53.4-x86_64.tar.gz|Self-contained, serverless, zero-configuration SQL database engine and CLI
