@@ -15,6 +15,6 @@ fd|10.4.2|1503229|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/ma
 tmux|3.8|854368|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/tmux-3.8-x86_64.tar.gz|Terminal multiplexer with multiple windows and sessions
 rsync|3.5.0|532073|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/rsync-3.5.0-x86_64.tar.gz|Fast and versatile file copying and remote synchronization tool
 strace|7.2|689000|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/strace-7.2-x86_64.tar.gz|Diagnostic, debugging and instructional userspace system call tracer
-lsof|4.99.7|146483|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/lsof-4.99.7-x86_64.tar.gz|Utility to list open files and file descriptors with dynamic Linux & Ascension OS detection
+lsof|4.99.7|146466|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/lsof-4.99.7-x86_64.tar.gz|Utility to list open files and file descriptors with Linux & Ascension support
 zstd|1.5.7|825984|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/zstd-1.5.7-x86_64.tar.gz|Fast real-time compression algorithm, CLI and library
 sqlite|3.53.4|9209275|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/sqlite-3.53.4-x86_64.tar.gz|Self-contained, serverless, zero-configuration SQL database engine and CLI
