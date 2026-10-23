@@ -18,3 +18,5 @@ strace|7.2|689000|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/ma
 lsof|4.99.7|218285|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/lsof-4.99.7-x86_64.tar.gz|Utility to list open files and file descriptors
 zstd|1.5.7|825984|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/zstd-1.5.7-x86_64.tar.gz|Fast real-time compression algorithm, CLI and library
 sqlite|3.53.4|9209275|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/sqlite-3.53.4-x86_64.tar.gz|Self-contained, serverless, zero-configuration SQL database engine and CLI
+coreutils|9.12|7239008|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/coreutils-9.12-x86_64.tar.gz|Core GNU utilities with dynamic Linux & Ascension support
+bash|5.3.15|3237359|https://raw.githubusercontent.com/Hidotu-Labs/Axon-Packages/main/pkgs/bash-5.3.15-x86_64.tar.gz|The GNU Bourne Again shell with dynamic Linux & Ascension support
