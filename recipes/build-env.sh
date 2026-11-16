@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+export AXON_TARGET_ARCH=x86_64
+export AXON_TARGET_OS=linux
+if [[ "${_AXON_BUILD_ENV_INITIALIZED:-0}" != 1 ]]; then
+	_AXON_BASE_CFLAGS=${CFLAGS:-}
+	_AXON_BASE_CXXFLAGS=${CXXFLAGS:-}
+	_AXON_BASE_RUSTFLAGS=${RUSTFLAGS:-}
+	_AXON_BUILD_ENV_INITIALIZED=1
+fi
+export CFLAGS="${_AXON_BASE_CFLAGS:+$_AXON_BASE_CFLAGS }-march=x86-64-v3 -mtune=generic"
+export CXXFLAGS="${_AXON_BASE_CXXFLAGS:+$_AXON_BASE_CXXFLAGS }-march=x86-64-v3 -mtune=generic"
+export RUSTFLAGS="${_AXON_BASE_RUSTFLAGS:+$_AXON_BASE_RUSTFLAGS }-C target-cpu=x86-64-v3"
+export GOOS=linux
+export GOARCH=amd64
+export GOAMD64=v3

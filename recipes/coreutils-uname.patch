@@ -1,0 +1,20 @@
+--- a/src/uname.c
++++ b/src/uname.c
+@@ -19,6 +19,7 @@
+ #include <stdio.h>
+ #include <sys/types.h>
+ #include <sys/utsname.h>
++#include <string.h>
+ #include <getopt.h>
+ 
+ #if HAVE_SYSINFO && HAVE_SYS_SYSTEMINFO_H
+@@ -411,2 +411,8 @@
+   if (toprint & PRINT_OPERATING_SYSTEM)
+-    print_element (HOST_OPERATING_SYSTEM, _("Operating system"));
++    {
++      struct utsname name;
++      char const *operating_system = HOST_OPERATING_SYSTEM;
++      if (uname (&name) == 0 && strcmp (name.sysname, "Ascension") == 0)
++        operating_system = "Ascension";
++      print_element (operating_system, _("Operating system"));
++    }
