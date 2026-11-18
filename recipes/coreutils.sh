@@ -25,6 +25,7 @@ cd "$source_dir"
     --libdir=/usr/lib \
     --libexecdir=/usr/lib/coreutils \
     --enable-nls \
+    --without-selinux \
     CFLAGS="$CFLAGS"
 make -j2
 make install DESTDIR="$stage_dir"
