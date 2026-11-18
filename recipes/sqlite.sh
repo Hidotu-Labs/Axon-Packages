@@ -25,7 +25,7 @@ cd "$source_dir"
     --libdir=/usr/lib \
     --all \
     --session \
-    CFLAGS="$CFLAGS -DSQLITE_ENABLE_STAT4"
+    CFLAGS="$CFLAGS -DSQLITE_ENABLE_COLUMN_METADATA -DSQLITE_ENABLE_STAT4"
 make -j2
 make install DESTDIR="$stage_dir"
 install -Dm644 "$source_dir/LICENSE.md" \
